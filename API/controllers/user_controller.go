@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"crudapi/models"
-	"crudapi/repository"
+	"api/models"
+	"api/repository"
 	"net/http"
 	"strconv"
 
