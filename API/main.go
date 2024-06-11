@@ -1,8 +1,8 @@
 package main
 
 import (
-	"crudapi/models"
-	"crudapi/routers"
+	"api/models"
+	"api/routers"
 )
 
 func main() {
