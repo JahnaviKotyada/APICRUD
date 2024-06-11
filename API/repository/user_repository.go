@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"crudapi/models"
+	"api/models"
 )
 
 func CreateUser(user *models.User) error {
